@@ -44,7 +44,19 @@ $ENDCMP
 #
 $CMP THAT300
 D Low-Noise Matched Transistor Array IC, 4 Matched NPN Transistors
-K THAT300
+K THAT320
+F http://www.thatcorp.com/datashts/THAT_300-Series_Datasheet.pdf
+$ENDCMP
+#
+$CMP THAT320
+D Low-Noise Matched Transistor Array IC, 4-Matched PNP Transistors
+K THAT320
+F http://www.thatcorp.com/datashts/THAT_300-Series_Datasheet.pdf
+$ENDCMP
+#
+$CMP THAT340
+D Low-Noise Matched Transistor Array IC, 2-Matched NPN Transistors and 2-Matched PNP Transistors
+K THAT340
 F http://www.thatcorp.com/datashts/THAT_300-Series_Datasheet.pdf
 $ENDCMP
 #
